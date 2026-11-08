@@ -1,5 +1,5 @@
 /*
-  Student:  (ID: YOUR ID)
+  Student:Colissa Gentles  (ID: 2501993)
   Module: Intro to JavaScript
   Assignment: JavaScript - Interactive Task Manager 
   Lecturer: Ms C. Anuli
